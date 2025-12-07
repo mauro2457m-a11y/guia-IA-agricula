@@ -1,0 +1,5 @@
+{
+  "name": "Guia do Agrônomo",
+  "description": "Um aplicativo para agrônomos consultarem informações sobre pragas, venenos e produtos agrícolas para diversas culturas. A informação é gerada por IA e deve ser verificada por um profissional.",
+  "requestFramePermissions": []
+}
